@@ -1,0 +1,3 @@
+[submodule "submodule-test.wiki"]
+	path = submodule-test.wiki
+	url = git@github.com:kdmsnr/submodule-test.wiki.git
